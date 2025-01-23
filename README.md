@@ -1,7 +1,6 @@
 # mindmap
 
 ```mermaid
-%%{init:{"theme": "base"}}%%
 mindmap
   root((コメダ珈琲の居心地がいい理由))
     店内環境
